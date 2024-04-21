@@ -1,0 +1,3 @@
+C:/Users/angel/Desktop/prog/nowe projekciki ez/bibloteczka/cmake-build-debug/CMakeFiles/bibloteczka.dir
+C:/Users/angel/Desktop/prog/nowe projekciki ez/bibloteczka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/angel/Desktop/prog/nowe projekciki ez/bibloteczka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

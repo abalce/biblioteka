@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708530644 source:c:\users\angel\desktop\nowe projekciki ez\bibloteczka\main.cpp
+	"bib.h"
+
+1708530615 c:\users\angel\desktop\nowe projekciki ez\bibloteczka\bib.h
+	<iostream>
+	<vector>
+	<string>
+
